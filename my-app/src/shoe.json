@@ -1,0 +1,38 @@
+[
+    {
+     "id":1,
+     "item":"Men Official Shoe",
+     "Description":"Stylish comfort that speaks confidence",
+     "image":"./images/process/download.jpeg"
+    },
+    {
+        "id":2,
+        "item":"Ladies Official Shoe",
+        "Description":"Where style meets comfort seamlessly",
+        "image":"./images/process/images (13).jpeg"
+       },
+    {
+        "id":3,
+        "item":"Men Casual Shoe",
+        "Description":"Effortlessly cool for any occasion",
+        "image":"./images/process/IMG-20230202-WA0011.jpg"
+    },
+    {
+        "id":4,
+        "item":"Ladies Casual Shoe",
+        "Description":"Effortlessly style,always ready for any day",
+        "image":"./images/process/IMG-20230121-WA0002.jpg"
+    },
+    {
+        "id":7,
+        "item":"Men sport Shoe",
+        "Description":"Elevate your performance with sleek design and superior technology",
+        "image":"./images/process/images (4).jpeg"
+    },
+    {
+        "id":8,
+        "item":"Ladies sport Shoe",
+        "Description":"Maximize your potential with style and performance in every step",
+        "image":"./images/process/images (2).jpeg"
+       }
+]

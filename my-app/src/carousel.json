@@ -1,0 +1,38 @@
+[
+    {
+        "id":1,
+        "Item":"Men's Official wear",
+        "Description":"Unleash your inner confidence Our formal attire.All at best prices",
+        "Image":"./images/categories/images (2).jpeg"
+    },
+    {
+        "id":2,
+        "Item":"Ladies Official wear",
+        "Description":"Elevate your wardrobe to new heights of timeless elegance and sophistication.",
+        "Image":"./images/categories/images (1).jpeg"
+    },
+    {
+        "id":3,
+        "Item":"Men's casual wear",
+        "Description":"Rediscover Comfort with a Touch of Trendy",
+        "Image":"./images/categories/1 (1).jpg"
+    },
+    {
+        "id":4,
+        "Item":"Ladies casual wear",
+        "Description":"Our casual wear collection combines the ease of everyday wear with latest fashion.",
+        "Image":"./images/categories/images (4).jpeg"
+    },
+    {
+        "id":5,
+        "Item":"Men Sports wear",
+        "Description":"Dominate the field with our cutting-edge sports gear",
+        "Image":"./images/categories/striped-tracksuits-sports-outfit-sets-lestyleparfait-kenya-1.jpg"
+    },
+    {
+        "id":6,
+        "Item":"Ladies Official wear",
+        "Description":"Our perfomance-driven equipment is designed to give you a winning edge. ",
+        "Image":"./images/categories/images (13).jpeg"
+    }
+]
